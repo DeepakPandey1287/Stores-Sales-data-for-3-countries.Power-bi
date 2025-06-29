@@ -34,8 +34,7 @@ Top Markets: USA, Mexico, and Canada
 
 High-Growth Regions: Central and North West Mexico
 
-Underperforming Regions: DF, Yucatan, Veracruz, Guerrero, and Jalisco show lower weekend profitability and require localized strategies.
-
+Underperforming Regions: DF, Yucatan, Veracruz, Guerrero, and Jalisco show lower weekend profitability and require localized strategies. 
 7. Temporal Trends
 Revenue Exceeds Target: In 1998, revenue surpassed targets by over $10K, reflecting effective business operations.
 
